@@ -1,2 +1,0 @@
-# TeleTren
-Proyecto de Programación
